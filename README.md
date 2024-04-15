@@ -1,9 +1,9 @@
-# Rosquinha girando na tela
+# Rosquinha 🥯
 
-## Como instalar
+## Como instalar em sua máquina:
 
-1. Baixe este repositorio
-2. Entre na pasta do repositorio
-3. ```npm install```
-4. ```npm run dev```
-5. Acesse [127.0.0.1:3000](http://127.0.0.1:3000/)
+1. Baixe este repositorio (git clone)
+2. Entre na pasta do repositorio (rosquinha)
+3. digite no temrinal: ```npm install```
+4. digite também: ```npm run dev```
+5. Acesse o servidor local através do terminal (use ctrl + click)
